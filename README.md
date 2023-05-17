@@ -1,4 +1,4 @@
-## RacingGameScoreAnalysis
+# RacingGameScoreAnalysis
 
 Background:
 
