@@ -13,7 +13,7 @@ Data was recorded using Google Sheets, then transferred and cleaned in Microsoft
 
 With this project, I had a few questions to potential analysis:
 Is there any difference in average score between Consoles?
-Is there a bias towards "Retro" vs. "Modern" games? (Pre-2008 vs. 2009-Today)
+Is there a bias towards "Retro" vs. "Modern" games (Pre-2008 vs. 2009-Today)?
 Which genres (Arcade, Simulation, Rally) score highest? 
 Which popular series has the highest average score?
 What years have the most games on the list?
