@@ -32,6 +32,6 @@ Data was recorded using Google Sheets, then transferred and cleaned in Microsoft
 - The highest average goes to the Gran Turismo (92), then Test Drive (89.5), and then Forza (88.5). The Need for Speed Series averaged at 87.2.
 - The most released in a year were 8 games, in 2003 and 2005.
 
-# Tableau Dashboard: 
+## Tableau Dashboard: 
 
 https://public.tableau.com/app/profile/sean.chugg/viz/RacingGameAnalysis/Dashboard1#1
