@@ -1,10 +1,10 @@
 # RacingGameScoreAnalysis
 
-Background:
+# Overview:
 
 This project analyzes Metacritic's Top 200 racing games by Metascore (https://www.metacritic.com/browse/games/genre/metascore/racing/all?view=detailed).
 
-# Process:
+# Methodology:
 
 Data was recorded using Google Sheets, then transferred and cleaned in Microsoft Excel. Further data cleaning was done in SQL, as well as some rudimentary analysis. Then, the cleaned data was loaded into Tableau for visualizaton.
 (Scores are on a 100 point system- 100 points being the highest, 0 being the lowest possible score).
