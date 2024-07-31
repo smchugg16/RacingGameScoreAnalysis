@@ -1,15 +1,15 @@
 # RacingGameScoreAnalysis
 
-# Overview:
+## Overview:
 
 This project analyzes Metacritic's Top 200 racing games by Metascore (https://www.metacritic.com/browse/games/genre/metascore/racing/all?view=detailed).
 
-# Methodology:
+## Methodology:
 
 Data was recorded using Google Sheets, then transferred and cleaned in Microsoft Excel. Further data cleaning was done in SQL, as well as some rudimentary analysis. Then, the cleaned data was loaded into Tableau for visualizaton.
 (Scores are on a 100 point system- 100 points being the highest, 0 being the lowest possible score).
 
-# Questions:
+## Questions:
 
 -With this project, I had a few questions to potential analysis:
 
@@ -24,7 +24,7 @@ Data was recorded using Google Sheets, then transferred and cleaned in Microsoft
 
 -What years have the most games on the list?
 
-# Outcomes:
+## Outcomes:
 
 -The Nintendo DS has the highest score, however, there was only 1 game released on this platform in the list. Next up is the Sony PS1 (8 games), then the Nintendo Switch (2 games), followed by the Xbox Series X/S (3 games).
 -The average scores are comparable- 87.358 for Retro vs. 87.009 for Modern. However, there seems to be more variance for Retro games (ranging from 84-96), as opposed to Modern (ranging from 84-94).
